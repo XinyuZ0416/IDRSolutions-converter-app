@@ -2,6 +2,9 @@
 
 **IDRSolutions Converter** is an Android file format conversion application (PDF/ fillable PDF to HTML/ SVG) that leverages the microservices of **BuildVu** and **FormVu**, products developed by IDRSolutions. This application allows users to trial IDRSolutions' products on their phone.
 
+## Download APK
+Downloading the released apk from [here](https://github.com/idrsolutions/IDRSolutions-converter-app/releases/tag/v1.0.0) is permitted under its respective license.
+
 ## License
 
 ### Proprietary License
